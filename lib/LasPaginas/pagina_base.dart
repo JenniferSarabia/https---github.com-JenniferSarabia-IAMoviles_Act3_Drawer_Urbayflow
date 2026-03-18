@@ -113,7 +113,7 @@ class DrawerUrbaFlow extends StatelessWidget {
                 backgroundColor: Colors.white,
                 child: ClipOval(
                   child: Image.network(
-                    'https://images.unsplash.com/photo-1557053964-9377f0154123?q=80&w=400', // URL del nuevo logo
+                    'https://raw.githubusercontent.com/JenniferSarabia/Imagenes-para-Flutter-6J-11-Febrero/refs/heads/main/5811316.png', // URL del nuevo logo
                     fit: BoxFit.cover,
                     width: 65,
                     height: 65,

@@ -2,7 +2,11 @@
 
 # Mi promp 
 Desarrollar una aplicación profesional en Flutter bajo la identidad de marca "Urba y Flow", estructurando el proyecto de forma organizada para ser fragmentado en una carpeta principal y una subcarpeta denominada "LasPaginas". La arquitectura debe basarse estrictamente en el uso de rutas nombradas para navegar entre las secciones de Inicio, Colecciones, Novedades, Ofertas y Productos, utilizando un Drawer reutilizable como eje central de la interfaz. Este menú lateral debe integrar un encabezado UserAccountsDrawerHeader con fondo azul institucional (#004691) que muestre un avatar circular con el logo del negocio, el nombre de la empresa y los datos de contacto detallados como dirección, teléfono y correo electrónico. Cada opción del menú se implementará mediante un ListTile con iconos específicos que ejecuten la navegación hacia su ruta correspondiente. Por su parte, cada una de las páginas de la aplicación debe presentar un diseño limpio con una imagen centrada de 200x200 píxeles obtenida desde un repositorio de GitHub, acompañada de un título descriptivo y manteniendo la esencia urbana mediante bordes definidos y una paleta de colores coherente, asegurando que el código sea modular y compatible para pruebas iniciales en DartPad antes de su implementación final en Firebase Studio.
-
+'https://raw.githubusercontent.com/JenniferSarabia/Imagenes-para-Flutter-6J-11-Febrero/refs/heads/main/5811316.png', // Flutter Logo
+'https://images.unsplash.com/photo-1445205170230-053b83016050?q=80&w=600', // Colección de Ropa
+https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=600', // Zapatillas Nuevas
+'https://raw.githubusercontent.com/JenniferSarabia/Imagenes-para-Flutter-6J-11-Febrero/refs/heads/main/Captura%20de%20pantalla%202026-03-11%20115826.png',
+https://raw.githubusercontent.com/JenniferSarabia/Imagenes-para-Flutter-6J-11-Febrero/refs/heads/main/Captura%20de%20pantalla%202026-03-11%20115926.png',
 ## Mi diseño web
 <img width="749" height="518" alt="image" src="https://github.com/user-attachments/assets/ec915135-4bb5-45d6-9eb0-38d258ec39d0" />
 <img width="750" height="536" alt="image" src="https://github.com/user-attachments/assets/be9779a3-145d-4027-bb2d-b8ce2843ff54" />
